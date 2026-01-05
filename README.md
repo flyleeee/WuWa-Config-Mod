@@ -18,6 +18,7 @@ WuWa Configs for Mod Users on Mid-to-Low-End PCs
       - `r.Streaming.LimitPoolSizeToVRAM`
       - `r.Streaming.PoolSize`
       - `r.Streaming.UseAllMips`
+   - Please make sure that `Configure Game Settings` and `Apply Performance Tweaks` in WWMI are **not checked**.
 4. Change the in-game **LOD bias** to **Medium** or **High**.
 
 </details>
@@ -43,6 +44,7 @@ RTX 4060 笔记本显卡（开启 Smooth Motion / AI 插帧的情况下，大多
      - `r.Streaming.LimitPoolSizeToVRAM`  
      - `r.Streaming.PoolSize`  
      - `r.Streaming.UseAllMips`
+   - 请确保**没有勾选**WWMI中的`Configure Game Settings` 和 `Apply Performance Tweaks`
 
 3. 在游戏内将 **画面细节** 设置为 **中** 或 **高**
 
